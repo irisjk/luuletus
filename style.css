@@ -1,0 +1,14 @@
+body
+
+#author-conteiner {
+   text-align: center;
+}
+
+   .verse {
+      font-size: smaller;
+      color:black;
+   }
+   
+   #author-img{
+      width: 200px;
+   }
