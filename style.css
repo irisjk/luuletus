@@ -9,6 +9,7 @@ body {
 }
 
    .verse {
+      text-align: center;
       font-size:medium;
       color:black;
    }
