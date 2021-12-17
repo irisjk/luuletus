@@ -1,8 +1,12 @@
 body {
-   text-align:left;
+   display: flex;
+   justify-content: center;
    margin: auto;
    background-color:burlywood;
 }
+
+#conteiner
+ 
 
 #author-conteiner {
    text-align:center;
@@ -12,6 +16,7 @@ body {
       text-align: center;
       font-size:medium;
       color:black;
+   
    }
    
    #author-img{
