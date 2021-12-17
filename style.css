@@ -1,11 +1,11 @@
 body
 
 #author-conteiner {
-   text-align: center;
+   text-align:right;
 }
 
    .verse {
-      font-size: smaller;
+      font-size:medium;
       color:black;
    }
    
